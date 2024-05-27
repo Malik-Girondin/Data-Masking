@@ -27,4 +27,4 @@ The `generate_ssn` function generates new SSNs based on a sequence.
 - Each masking function is applied to the sample data in sequence.
 - The final masked data is printed.
 
-You can run this script to see how the data masking works. Replace the sample data with your actual dataset for practical use. If you need further assistance or modifications, feel free to ask!
+You can run this script to see how the data masking works. Replace the sample data with your actual dataset for practical use. Feel free to modify the code to your liking!
